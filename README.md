@@ -1,1 +1,3 @@
-# cryptosino
+# scratch cash
+
+cryptosino
